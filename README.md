@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chiommycode
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me ...
 
